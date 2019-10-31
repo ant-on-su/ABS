@@ -97,3 +97,6 @@ ENV/
 /data/
 /figures/
 /output/
+
+# any special folders
+.*
